@@ -140,9 +140,7 @@ order by 2 DESC;
 
 ---------------- UPDATED QUERY ------------------------
 
-CREATE TYPE season_stats AS (
-
-                         season Integer,
+CREATE TYPE season_stats AS (season Integer,
 
 gp INTEGER,
 
